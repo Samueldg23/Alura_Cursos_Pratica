@@ -1,0 +1,5 @@
+ Concat - Concatenar strings
+Select
+    CONCAT (nome, ' ', sobrenome) as nome_completo
+from clientes;
+
